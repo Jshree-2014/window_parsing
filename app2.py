@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 
 youtube_embed_code = """
-<iframe width="930" height="523" src="https://aplus-evolution.systems88.com/frontend/evo/r2/#category=baccarat&game=baccarat&table_id=p63cmvmwagteemoy&lobby_launch_id=4773a408250b4ffda9a4c79ece123fd3" 
+<iframe width="930" height="523" src="https://aplus-evolution.systems88.com/frontend/evo/r2/#category=baccarat&game=baccarat&table_id=p63cmvmwagteemoy&lobby_launch_id=cfacb89210144c32a137e483321cad6a" 
 title="Aaj Tak LIVE TV: Delhi Air Pollution | Assembly Election 2023 | CM Nitish | Shopian Encounter News" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
